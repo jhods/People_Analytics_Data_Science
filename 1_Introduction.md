@@ -21,9 +21,9 @@ All joking aside, I am being paid by a Fortune 100 company to apply Data Science
 ## What will you get from this book?
 I’ll be developing this book in an agile format, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
 * *Introduction:* Overview of why I am writing this book, what you’ll get from it, and who it is intended for.
-* *Getting Started:* What you need to get started if you don’t already have setup for utilizing Python.
-* *Predicting Turnover:* A basic framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
-* *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sites on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
+* *Getting Started:* What you need to get started if you don’t already have a setup for utilizing Python.
+* *Predicting Turnover:* A framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
+* *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sits on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
 
 All of the code for this will be generalized, making it easier for you to take my code and apply it to your work.
 
