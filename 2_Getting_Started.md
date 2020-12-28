@@ -1,0 +1,9 @@
+# Getting Started
+
+The following chapters will leverage Python rather than R.  I have found R is traditionally leveraged more in HR than Python due to the I/O Psych influence.  Most I/O Psychology programs teach R for doing statistics and the I/O Psych employees have typically been the most technical employees within HR
+
+I’m choosing to do this with Python rather than R for two reasons.  First, the sklearn library in Python is superior to the modeling/data science packages available in R.  Especially when getting started, sklearn abstracts away a lot of the coding complexity.  It also has robust and inclusive documentation, making it easy to learn more about the functions being leveraged.  If you’re traditionally an R user, I think you’ll find the sklearn documentation easier to understand and follow compared to most documentation for R packages.
+
+If you already use Python and your company has a preferred way of using Python, **use that and skip to the next chapter**.  If you haven’t used Python before, see the instructions for downloading Anaconda below.  If you’re doing this on a work computer and have some security restrictions on what you can download, please work with your IT contact to find the best way to download what is required.
+
+*Anaconda:* This is Anaconda’s [link](https://www.anaconda.com/ “site”). Anaconda is the **preferred** solution as it downloads everything you need (the Python language as well as the interfaces to make it easier to write and run Python code).  It is also free of charge as it is an open source software.  You will want to download the individual version [link]( https://www.anaconda.com/products/individual “here”).  This is how I did the coding for this book.  I am using Python 3.7, however the libraries being used are popular enough that the specific version of Python or the libraries being utilized should not cause any issues.
