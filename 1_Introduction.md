@@ -28,3 +28,19 @@ I’ll be developing this book in an agile format, so you’ll see this section 
 All of the code for this will be generalized, making it easier for you to take my code and apply it to your work.
 
 For future iterations, I’ll start by working on enhancements that users recommend.  I’d like to include some functions/sudo-packages that could be utilized to simplify your experience with using these data science techniques in your work.
+
+## Who is this for and who is this not for?
+
+#### Who is this for?
+This is for the HR Analytics professional that is looking to leverage more advanced analytics techniques in their work.  You don’t need to be a Data Scientist or coder to leverage this content.  I’ll be thoroughly explaining the code, providing explanation on what the code is doing.  Having some familiarity with writing code, whether it be R, SQL, Python, VBA, etc. will be helpful but isn’t required.
+
+If you’re a leader in HR looking to know what is possible with the analytics techniques that can be leverage in the People Analytics space.  The comments in the chapters will provide significant detail to understand the business problem and how the business problem is being solved with the analytics solution, so you don’t need coding experience to leverage this content to understand what is possible.
+
+If you’re a Data Scientist, you’ll likely find the most value in the use cases rather than the code itself given it is generalized and reduces some of the nuances to provide a more user friendly initial framework to build on.
+
+#### Who is this not for?
+Anyone will likely get some value from this content, however the that will likely get the least out of this content are the People Analytics professionals already doing machine learning and text analytics.  The content is intentional generalized to provide a framework to build off of.  If you’re already utilizing these techniques, it is likely you already have some or most of this code built out that is more specific to your company’s data and use cases.
+
+## Questions, recommendations for enhancements, or general feedback?
+Please raise a GitHub issue with sufficient detail for me to look into your question, recommendation for enhancement, or general feedback!
+
