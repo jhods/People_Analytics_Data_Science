@@ -16,7 +16,7 @@ You could also view this as “something you enjoy”.  For me, I love the chall
 #### Something people will pay you to do
 The irony of writing a free book on GitHub…
 
-All joking aside, I am being paid for a Fortune 100 company to apply Data Science techniques to the People Analytics space.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
+All joking aside, I am being paid by a Fortune 100 company to apply Data Science techniques to the People Analytics space.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
 
 ## What will you get from this book?
 I’ll be developing this book in an agile format, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
