@@ -21,5 +21,7 @@ I’ll be developing this book in an agile format, so you’ll see this section 
 * *Getting Started:* What you need to get started if you don’t already have setup for utilizing Python.
 * *Predicting Turnover:* A basic framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
 * *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sites on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
+
 All of the code for this will be generalized, making it easier for you to take my code and apply it to your work.
+
 For future iterations, I’ll start by working on enhancements that users recommend.  I’d like to include some functions/sudo-packages that could be utilized to simplify your experience with using these data science techniques in your work.
