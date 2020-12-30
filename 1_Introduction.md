@@ -1,38 +1,40 @@
 # Introduction: Why am I writing this, what will you get out of this, and who is this for?
 
 ## Why am I writing this?
-When I started writing this book/tutorial/framework for using introductory Data Science techniques in the People Analytics (fancy name for HR Analytics), I had just finished my Master’s degree and found myself with a lot of extra time.
+When I started writing this book for using introductory Data Science techniques in the People Analytics (fancy name for HR Analytics), I had just finished my Master’s degree and found myself with a lot of extra time.  Using this as an outlet to fill my new found free time in a meaningful way.
 
-Scott Galloway has a framework he recommends for people to utilize when trying to determine what to pursue.  Find the intersection between something you might be good at, something that doesn’t suck, and something people will pay you to do.  If you haven’t heard of Scott Galloway, I recommend reading his books at a minimum.  Here is a link to his Tweet about the intersection described above to give you a place to start: https://twitter.com/profgalloway/status/1216744676360904706
+Scott Galloway has a framework he recommends for people to utilize when trying to determine what to pursue.  Find the intersection between something you might be good at, something that doesn’t suck, and something people will pay you to do.  If you haven’t heard of Scott Galloway, I recommend reading his books at a minimum.  Beyond being an author, he does a number of interviews, podcasts, speaking engagements, etc.  Here is a link to his Tweet about the intersection described above to give you a place to start: https://twitter.com/profgalloway/status/1216744676360904706
 
 #### Something you might be good at
 The People Analytics space is an immature space, so I have the fortune of the bar for “good” being set lower than other more mature fields in the advanced analytic realm.  I’ve been given the opportunity to work with a lot of great Data Scientists ranging from PhD’s in Physics to converted Actuaries.  The experience I have gained from working with them, combined with my formal education has provided me the technical knowledge to apply Data Science techniques on the HR data.
 
-From my own experience, reading articles, talking with various HR professionals about the adoption of People Analytics, there is often a significant gap between the person/team doing the analytics and the business facing employee (often times an HR Business Partner).  As an People Analytics professional, if you find yourself having to explain a GBM (Gradient Boosting Machine) to an HR Business Partner, you’re significantly less likely to succeed in getting your point across.  My career niche and something I do better than most is tying the analytics solution to the business problem.  You’ll see throughout this book that I will emphasize the purpose and “why” to help equip you with that answer.
+From my own experience, reading articles, talking with various HR professionals about the adoption of People Analytics, there is often a significant gap between the person/team doing the analytics and the business facing employee (often times an HR Business Partner).  As an People Analytics professional, if you find yourself having to explain a GBM (Gradient Boosting Machine) to an HR Business Partner, you’re significantly less likely to succeed in getting your point across.  My career niche and something I do better than most is tying the analytics solution to the business problem.  You’ll see throughout this book that I will emphasize the purpose and “why” to help equip you with the necessary information to translate the often complex solution into a user friendly explanation for your client.
 
 #### Something that doesn't suck (something you enjoy)
 You could also view this as “something you enjoy”.  For me, I love the challenges that come with finding the best analytics solution for the business problem at hand.  In the People Analytics space, the general analytics challenges are compounded by the immaturity of the People Analytics space.  When speaking with a Director of HR Analytics for a subsidiary of a large international company, she indicated the subsidiary’s CEO had deemed utilizing analytics in the HR space a top priority but the subsidiaries HR Business Partners actively reject using analytics in their decision making processes.  While it can be frustrating at times, I enjoy the challenge of taking on something that the “right way” hasn’t already been determined, because that means I get to help determine the “right way”!
 
+Beyond the People Analytics space, something I enjoy is teaching others.  Its something that I get a lot of enjoyment out of, as I find it a means of giving back to others who have helped me get to where I am at today.  While often a cliche, I find myself understanding concepts or my own code better when I have to explain it to someone else.  While helping others learn is rewarding, there is also something in it for me as well.  When writing the descriptions about the concepts and code in this book, this sentiment could not be more true!
+
 #### Something people will pay you to do
 The irony of writing a free book on GitHub…
 
-All joking aside, I am being paid by a Fortune 100 company to apply Data Science techniques to the People Analytics space.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
+All joking aside, I am paid by a Fortune 100 company to apply Data Science techniques to the People Analytics space.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
 
 ## What will you get from this book?
-I’ll be developing this book in an agile format, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
+I’ll be developing this book in an interative way, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
 * *Introduction:* Overview of why I am writing this book, what you’ll get from it, and who it is intended for.
 * *Getting Started:* What you need to get started if you don’t already have a setup for utilizing Python.
 * *Predicting Turnover:* A framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
 * *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sits on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
 
-All of the code for this will be generalized, making it easier for you to take my code and apply it to your work.
+You'll get a lot of code you can apply to your own work in these sections.  Consider this code a starting place to apply to the data at your company.  Each company will capture different information about its employees or execute different employee listening strategies, but the basics of this code can be taken and applied to your own data.  From there based on your company's needs, you can add and improve upon the code from there!
 
-For future iterations, I’ll start by working on enhancements that users recommend.  I’d like to include some functions/sudo-packages that could be utilized to simplify your experience with using these data science techniques in your work.
+For future chapters, I’ll start by working on enhancements that users recommend.
 
 ## Who is this for and who is this not for?
 
 #### Who is this for?
-This is for the HR Analytics professional that is looking to leverage more advanced analytics techniques in their work.  You don’t need to be a Data Scientist or coder to leverage this content.  I’ll be thoroughly explaining the code, providing explanation on what the code is doing.  Having some familiarity with writing code, whether it be R, SQL, Python, VBA, etc. will be helpful but isn’t required.
+The HR Analytics professional that is looking to leverage more advanced analytics techniques in their work will get the most out of all this content.  You don’t need to be a Data Scientist or coder to leverage this content.  I’ll be thoroughly explaining the code, providing explanation on what the code is doing.  Having some familiarity with writing code, whether it be R, SQL, Python, VBA, etc. will be helpful but isn’t required.
 
 If you’re a leader in HR looking to know what is possible with the analytics techniques that can be leverage in the People Analytics space.  The comments in the chapters will provide significant detail to understand the business problem and how the business problem is being solved with the analytics solution, so you don’t need coding experience to leverage this content to understand what is possible.
 
