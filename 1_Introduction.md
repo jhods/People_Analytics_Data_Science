@@ -1,4 +1,27 @@
-# Introduction: Why am I writing this, what will you get out of this, and who is this for?
+# Introduction: Who is this for, what will you get out of this, and why am I writing this?
+
+#### Who is this for?
+The HR Analytics professional that is looking to leverage more advanced analytics techniques in their work will get the most out of all this content.  You don’t need to be a Data Scientist or coder to leverage this content.  I’ll be thoroughly explaining the code, providing explanation on what the code is doing.  Having some familiarity with writing code, whether it be R, SQL, Python, VBA, etc. will be helpful but isn’t required.
+
+If you’re a leader in HR looking to know what is possible with the analytics techniques that can be leverage in the People Analytics space.  The comments in the chapters will provide significant detail to understand the business problem and how the business problem is being solved with the analytics solution, so you don’t need coding experience to leverage this content to understand what is possible.
+
+If you’re a Data Scientist, you’ll likely find the most value in the use cases rather than the code itself given it is generalized and reduces some of the nuances to provide a more user friendly initial framework to build on.
+
+#### Who is this not for?
+Anyone will likely get some value from this content, however the that will likely get the least out of this content are the People Analytics professionals already doing machine learning and text analytics.  The content is intentional generalized to provide a framework to build off of.  If you’re already utilizing these techniques, it is likely you already have some or most of this code built out that is more specific to your company’s data and use cases.
+
+## What will you get from this book?
+I’ll be developing this book in an interative way, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
+* *Introduction:* Overview of why I am writing this book, what you’ll get from it, and who it is intended for.
+* *Getting Started:* What you need to get started if you don’t already have a setup for utilizing Python.
+* *Predicting Turnover:* A framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
+* *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sits on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
+
+You'll get a lot of code you can apply to your own work in these sections.  Consider this code a starting place to apply to the data at your company.  Each company will capture different information about its employees or execute different employee listening strategies, but the basics of this code can be taken and applied to your own data.  From there based on your company's needs, you can add and improve upon the code from there!
+
+For future chapters, I’ll start by working on enhancements that users recommend.
+
+## Who is this for and who is this not for?
 
 ## Why am I writing this?
 When I started writing this book for using introductory Data Science techniques in the People Analytics (fancy name for HR Analytics), I had just finished my Master’s degree and found myself with a lot of extra time.  Using this as an outlet to fill my new found free time in a meaningful way.
@@ -18,30 +41,7 @@ Beyond the People Analytics space, something I enjoy is teaching others.  Its so
 #### Something people will pay you to do
 The irony of writing a free book on GitHub…
 
-All joking aside, I am paid by a Fortune 100 company to apply Data Science techniques to the People Analytics space.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
-
-## What will you get from this book?
-I’ll be developing this book in an interative way, so you’ll see this section continue to update.  As part of the MVP (minimum viable product), I’ll be including the following:
-* *Introduction:* Overview of why I am writing this book, what you’ll get from it, and who it is intended for.
-* *Getting Started:* What you need to get started if you don’t already have a setup for utilizing Python.
-* *Predicting Turnover:* A framework for how to set up a model that will predict the risk of turnover.  We’ll go over a handful of approaches and my perspective on the pros and cons of each approach.
-* *Text Analytics:* Text Analytics or NLP (Natural Language Processing) is the #1 area of opportunity for HR to better utilize analytics.  HR sits on a gold mine of text data: performance reviews, feedback from other employees, employee listening campaigns (corporate speak for surveys), job profiles, etc.  We’ll go through the basic framework for what needs to be done to go from paragraphs of text to something we can gain meaning from.
-
-You'll get a lot of code you can apply to your own work in these sections.  Consider this code a starting place to apply to the data at your company.  Each company will capture different information about its employees or execute different employee listening strategies, but the basics of this code can be taken and applied to your own data.  From there based on your company's needs, you can add and improve upon the code from there!
-
-For future chapters, I’ll start by working on enhancements that users recommend.
-
-## Who is this for and who is this not for?
-
-#### Who is this for?
-The HR Analytics professional that is looking to leverage more advanced analytics techniques in their work will get the most out of all this content.  You don’t need to be a Data Scientist or coder to leverage this content.  I’ll be thoroughly explaining the code, providing explanation on what the code is doing.  Having some familiarity with writing code, whether it be R, SQL, Python, VBA, etc. will be helpful but isn’t required.
-
-If you’re a leader in HR looking to know what is possible with the analytics techniques that can be leverage in the People Analytics space.  The comments in the chapters will provide significant detail to understand the business problem and how the business problem is being solved with the analytics solution, so you don’t need coding experience to leverage this content to understand what is possible.
-
-If you’re a Data Scientist, you’ll likely find the most value in the use cases rather than the code itself given it is generalized and reduces some of the nuances to provide a more user friendly initial framework to build on.
-
-#### Who is this not for?
-Anyone will likely get some value from this content, however the that will likely get the least out of this content are the People Analytics professionals already doing machine learning and text analytics.  The content is intentional generalized to provide a framework to build off of.  If you’re already utilizing these techniques, it is likely you already have some or most of this code built out that is more specific to your company’s data and use cases.
+All joking aside, I was paid by a Fortune 100 company to apply Data Science techniques to the People Analytics space and currently work for a global company doing the same.  If nothing else, hopefully that provides some additional validity to what you’ll read in these pages!
 
 ## Questions, recommendations for enhancements, or general feedback?
 Please raise a GitHub issue with sufficient detail for me to look into your question, recommendation for enhancement, or general feedback!
